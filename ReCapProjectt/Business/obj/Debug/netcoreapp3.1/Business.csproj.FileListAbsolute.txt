@@ -1,0 +1,15 @@
+C:\Users\Monster\source\repos\ReCapProjectt\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Monster\source\repos\ReCapProjectt\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Monster\source\repos\ReCapProjectt\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Monster\source\repos\ReCapProjectt\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Monster\source\repos\ReCapProjectt\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Monster\source\repos\ReCapProjectt\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Monster\source\repos\ReCapProjectt\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Monster\source\repos\ReCapProjectt\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\ReCapProjectt\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\ReCapProjectt\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\ReCapProjectt\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Monster\source\repos\ReCapProjectt\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\ReCapProjectt\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Monster\source\repos\ReCapProjectt\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Monster\source\repos\ReCapProjectt\Business\obj\Debug\netcoreapp3.1\Business.pdb

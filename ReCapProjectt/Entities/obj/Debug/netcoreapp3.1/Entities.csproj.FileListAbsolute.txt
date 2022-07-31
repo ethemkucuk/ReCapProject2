@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\ReCapProjectt\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Monster\source\repos\ReCapProjectt\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Monster\source\repos\ReCapProjectt\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Monster\source\repos\ReCapProjectt\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\ReCapProjectt\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\ReCapProjectt\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\ReCapProjectt\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Monster\source\repos\ReCapProjectt\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\ReCapProjectt\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Monster\source\repos\ReCapProjectt\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
